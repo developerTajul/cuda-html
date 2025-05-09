@@ -1,0 +1,159 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.section-heading p {
+		padding: 0;
+	}
+
+	.team-heading .section-heading h2 {
+		font-size: 34px;
+	}
+
+	.slider-area.style-1 .single-slide-item h3 {
+		font-size: 37px;
+	}
+
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+	.section-heading h2 {
+		font-size: 23px;
+	}
+	.section-heading p {
+		padding: 0;
+	}
+
+
+	.slider-area.style-1 .single-slide-item h3 {
+		font-size: 20px;
+	}
+	.slider-area.style-1 .single-slide-item h3 > span {
+		display: inline;
+	}
+	.slider-area.style-1 .single-slide-item .theme-btn a {
+		padding: 15px 25px;
+	}
+
+
+	.section-heading-area.services-heading{
+		padding: 100px 0 40px;
+	}
+	.services-area {
+		padding-bottom: 30px;
+	}
+	.services-area .single-service-item .service-thumb {
+		margin-bottom: 10px;
+	}
+	.services-area .single-service-item .service-content h3 {
+		font-size: 20px;
+	}
+
+
+
+	.section-heading-area.team-heading{
+		padding: 100px 0 40px;
+	}
+	.team-area{
+		padding-bottom: 30px;
+	}
+	.team-area .single-team-item .team-meta h5 {
+		font-size: 18px;
+	}
+
+
+
+
+	.section-heading-area.skill-heading{
+		padding: 100px 0 45px;
+	}
+	.skill-area {
+		padding-bottom: 30px;
+	}
+	.single-skills-item .chart {
+		margin-bottom: 10px;
+	}
+	.single-skills-item .chart span {
+		font-size: 40px;
+	}
+	.single-skills-item h5 {
+		font-size: 20px;
+	}
+
+
+
+	.section-heading-area.portfolio-heading{
+		padding: 100px 0 30px;
+	}
+
+	.portfolio-area .theme-btn a {
+		width: 210px;
+		padding: 15px 20px;
+	}
+
+
+	.section-heading-area.testimonial-heading {
+		padding: 100px 0 35px;
+	}
+	.testimonial-area{
+		padding-bottom: 40px;
+	}
+	.single-testimonial-item{
+		flex-direction: column;
+		text-align: center;
+	}
+	.single-testimonial-item .author-thumb {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.single-testimonial-item .author-meta h5 {
+		font-size: 16px;
+	}
+	.single-testimonial-item .author-meta span {
+		font-size: 14px;
+	}
+
+
+
+	.section-heading-area.contact-form-heading{
+		padding: 90px 0 30px;
+	}
+	.contact-form-area{
+		padding-bottom: 60px;
+	}
+
+	.contact-form .button-wrapper input[type="submit"] {
+		width: 210px;
+		padding: 15px 20px;
+	}
+
+
+
+
+	.footer-bottom-widget.widget_nav_menu ul li a {
+		font-size: 15px;
+		padding: 10px 3px;
+	}
+
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+
+}
